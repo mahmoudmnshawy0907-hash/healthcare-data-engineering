@@ -1,0 +1,7 @@
+**pycache**/
+*.pyc
+
+healthcare_backup.db
+*.db-journal
+*.db-shm
+*.db-wal
