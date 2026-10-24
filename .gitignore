@@ -1,7 +1,19 @@
-**pycache**/
-*.pyc
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
 
-healthcare_backup.db
+# Local SQLite databases
+*.db
+*.sqlite
+*.sqlite3
 *.db-journal
 *.db-shm
 *.db-wal
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env

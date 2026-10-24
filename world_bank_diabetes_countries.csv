@@ -1,0 +1,9 @@
+﻿Country,Year,Indicator_Code,Indicator_Name,Value,Source_URL
+United Arab Emirates,2024,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),20.7,https://api.worldbank.org/v2/country/EGY;SAU;ARE;MAR/indicator/SH.STA.DIAB.ZS?format=json&per_page=500
+"Egypt, Arab Rep.",2024,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),22.4,https://api.worldbank.org/v2/country/EGY;SAU;ARE;MAR/indicator/SH.STA.DIAB.ZS?format=json&per_page=500
+Saudi Arabia,2024,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),23.1,https://api.worldbank.org/v2/country/EGY;SAU;ARE;MAR/indicator/SH.STA.DIAB.ZS?format=json&per_page=500
+Morocco,2024,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),11.9,https://api.worldbank.org/v2/country/EGY;SAU;ARE;MAR/indicator/SH.STA.DIAB.ZS?format=json&per_page=500
+"Egypt, Arab Rep.",2011,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),16.6,https://api.worldbank.org/v2/country/EGY;SAU;ARE;MAR/indicator/SH.STA.DIAB.ZS?format=json&per_page=500
+United Arab Emirates,2011,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),18.8,https://api.worldbank.org/v2/country/EGY;SAU;ARE;MAR/indicator/SH.STA.DIAB.ZS?format=json&per_page=500
+Morocco,2011,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),6.8,https://api.worldbank.org/v2/country/EGY;SAU;ARE;MAR/indicator/SH.STA.DIAB.ZS?format=json&per_page=500
+Saudi Arabia,2011,SH.STA.DIAB.ZS,Diabetes prevalence (% of population ages 20 to 79),19.6,https://api.worldbank.org/v2/country/EGY;SAU;ARE;MAR/indicator/SH.STA.DIAB.ZS?format=json&per_page=500
